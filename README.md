@@ -9,7 +9,7 @@ In Linux, everything's just fine but in Windows, you'll need to install [windows
 First of all, clone the repo (ofc!)<br/>
 
 ```bash
-$ git clone https://github.com/AMJoshaghani/2048.git
+$ git clone https://github.com/AMJoshaghani/2048.git && cd 2048
 ```
 <br>
 Then, run it via following command:<br/><br/>
