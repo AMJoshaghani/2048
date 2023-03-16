@@ -6,6 +6,17 @@ Play 2048 right in your terminal! :)
 # Installing Requirements
 In Linux, everything's just fine but in Windows, you'll need to install [windows-curses](https://pypi.org/project/windows-curses/) and everything will be good to go!
 # Running
-Run it via following command:<br>
-```$ python main.py```<br/>
+First of all, clone the repo (ofc!)<br/>
+
+```bash
+$ git clone https://github.com/AMJoshaghani/2048.git
+```
+<br>
+Then, run it via following command:<br/><br/>
+
+```bash
+$ python main.py
+```
+
+<br/>
 and have fun ;)
