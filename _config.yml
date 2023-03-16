@@ -1,3 +1,16 @@
+# Setup
+title:        2048
+tagline:      Play 2048 in terminal/cmd!
+baseurl:      "https://amjoshaghani.github.io/2048"
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Amir M. Joshaghani
+  url:        http://amjoshaghani.ir 
+
+# Theme
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
